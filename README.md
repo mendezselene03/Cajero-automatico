@@ -29,6 +29,20 @@ El presente proyecto consiste en el desarrollo de un software a medida para un *
 
 ---
 
+
+🔑 Credenciales de Prueba (Testing Oficial)
+Para realizar las pruebas del sistema durante la presentación y evaluación, utilizá los siguientes datos cargados en la base de datos:
+
+Número de Tarjeta: 450789123456
+
+PIN de Acceso: 1234
+
+Titular de la Cuenta: Juan Pérez
+
+Alias: dexter.mendez
+
+---
+
 ## 🖥️ 4. Manual de Usuario (Interfaces del Sistema)
 
 ### 1. Inserción de Tarjeta (`FrmInsertarTarjeta`)
